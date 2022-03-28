@@ -3,6 +3,7 @@ To create plots for catalog analysis RUN : "python3 Plots.py"
 programme will ask for inputs :-
 
 file_name = string for file name present in same directory.
+# NOTE : Input file should be an CSV file with column names ["Date Time","latitude","longitude","magnitude","Depth"] and "|" as seperator. #
 
 OUTPUT:-
 1) for get a 2D histogram.
