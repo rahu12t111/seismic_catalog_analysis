@@ -1,0 +1,25 @@
+To create plots for catalog analysis RUN : "python3 Plots.py"
+
+programme will ask for inputs :-
+
+file_name = string for file name present in same directory.
+
+OUTPUT:-
+1) for get a 2D histogram.
+2) magnitude<=cutoff VS time for different magnitude range in same plots.
+3) magnitude<= cutoff VS time in different graphs.
+4) 1D Kernel density Plots.
+5) 1D log(kernel) density Plot. 
+6) mag vs log(cumulative_count)
+7) mag vs log count
+8) mag. <= 5 VS time
+9) 2D distplot
+10) 1D kernel density plot
+11) basic catalog info
+12) mag. VS time
+13) depth VS time
+14) mag. VS depth
+15) mag. histogram
+16) depth histogram
+17) In depth catalog profile
+18) HTML map of the catalog with event info
